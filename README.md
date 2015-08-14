@@ -13,3 +13,9 @@ This repository is the home of the Mud Designer. The Mud Designer is being built
 
 ##### Adapters
 - [Windows Server](https://github.com/MudDesigner/MudServerAdapter.Windows)
+
+### Documentation
+---
+There are two types of documentation available. [Usage documentation](http://muddesigner.readthedocs.org/en/latest/) and API documentation. The API documentation will come at a later date.
+
+If you would like to help out with the usage documentation, feel free to [take a look at the source](https://github.com/MudDesigner/Docs) and issue pull requests!
