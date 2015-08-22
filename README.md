@@ -14,8 +14,7 @@ While this project is not very large, I found that having a repository for each 
 - [The Mud Engine](https://github.com/MudDesigner/MudEngine)
 
 ##### Adapters
-- [Windows Server: deprecated and will soon be removed](https://github.com/MudDesigner/MudServerAdapter.Windows)
-- [Cross-platform server](https://github.com/MudDesigner/Adapter.MudServer/tree/dev-server)
+- [Cross-platform Mud Server](https://github.com/MudDesigner/Adapter.MudServer/tree/dev-server)
 
 ### Documentation
 ---
