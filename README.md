@@ -11,10 +11,7 @@ While this project is not very large, I found that having a repository for each 
 ### The Repositories
 ---
 ##### Core engine components
-- [The Mud Engine](https://github.com/MudDesigner/MudEngine)
-
-##### Adapters
-- [Cross-platform Mud Server](https://github.com/MudDesigner/Adapter.MudServer/tree/dev-server)
+- [The Mud Engine](https://github.com/MudDesigner/MudDesigner.Engine)
 
 ### Documentation
 ---
